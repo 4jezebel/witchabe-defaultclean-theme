@@ -1,0 +1,12 @@
+﻿# OS & Editor Junk
+.DS_Store
+Thumbs.db
+*.user
+*.suo
+.vs/
+.vscode/
+
+# Temp & Backup Files
+*.bak
+*.tmp
+*~
