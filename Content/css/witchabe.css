@@ -1,2 +1,8 @@
-﻿body {
+﻿/* --- Emergency WitchAbe Override --- */
+body, .master-wrapper-page, .header, .header-menu {
+  background-color: #0E0E10 !important;
 }
+
+  .header-menu a, .account-navigation a {
+    color: #D4AF37 !important;
+  }
