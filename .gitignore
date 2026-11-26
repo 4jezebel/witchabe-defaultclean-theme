@@ -1,0 +1,8 @@
+# Ignore VS Cache
+.vs/
+*.suo
+*.user
+
+# Ignore OS Trash
+Thumbs.db
+.DS_Store
